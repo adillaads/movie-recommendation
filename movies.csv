@@ -1,11 +1,11 @@
-title,genres,director,description
-Inception,Action Sci-Fi,Christopher Nolan,A thief who steals corporate secrets through the use of dream-sharing technology.
-The Matrix,Action Sci-Fi,Lana Wachowski,A hacker discovers reality is a simulation and joins a rebellion.
-Interstellar,Adventure Drama Sci-Fi,Christopher Nolan,A team travels through a wormhole to find a new home for humanity.
-The Godfather,Crime Drama,Francis Ford Coppola,An organized crime dynasty's aging patriarch transfers control to his reluctant son.
-The Dark Knight,Action Crime Drama,Christopher Nolan,Batman battles the Joker who plunges Gotham into chaos.
-Forrest Gump,Drama Romance,Robert Zemeckis,A simple man recounts his extraordinary life journey.
-Pulp Fiction,Crime Drama,Quentin Tarantino,Stories of crime in Los Angeles are intertwined in a nonlinear narrative.
-The Shawshank Redemption,Drama,Frank Darabont,A man wrongly imprisoned forms a lifelong bond with another inmate.
-Gladiator,Action Adventure Drama,Ridley Scott,A betrayed Roman general seeks revenge and fights for freedom.
-Titanic,Drama Romance,James Cameron,A love story unfolds on the ill-fated voyage of the Titanic.
+id,title,tags
+1,Inception,action sci-fi christopher nolan thief steals dreams technology mind-bending
+2,The Matrix,action sci-fi lana wachowski hacker discovers simulation reality joins rebellion
+3,Interstellar,adventure drama sci-fi christopher nolan team travels wormhole save humanity
+4,The Godfather,crime drama francis ford coppola mafia family power loyalty betrayal
+5,The Dark Knight,action crime drama christopher nolan batman joker chaos gotham justice
+6,Forrest Gump,drama romance robert zemeckis simple man extraordinary journey historical events
+7,Pulp Fiction,crime drama quentin tarantino nonlinear story hitmen boxer gangsters
+8,Shawshank Redemption,drama frank darabont wrongly imprisoned hope freedom friendship
+9,Gladiator,action drama ridley scott betrayed general revenge rome combat
+10,Titanic,drama romance james cameron love tragedy ship iceberg disaster
