@@ -1,11 +1,8 @@
 id,title,tags
-1,Inception,action sci-fi christopher nolan thief steals dreams technology mind-bending
-2,The Matrix,action sci-fi lana wachowski hacker discovers simulation reality joins rebellion
-3,Interstellar,adventure drama sci-fi christopher nolan team travels wormhole save humanity
-4,The Godfather,crime drama francis ford coppola mafia family power loyalty betrayal
-5,The Dark Knight,action crime drama christopher nolan batman joker chaos gotham justice
-6,Forrest Gump,drama romance robert zemeckis simple man extraordinary journey historical events
-7,Pulp Fiction,crime drama quentin tarantino nonlinear story hitmen boxer gangsters
-8,Shawshank Redemption,drama frank darabont wrongly imprisoned hope freedom friendship
-9,Gladiator,action drama ridley scott betrayed general revenge rome combat
-10,Titanic,drama romance james cameron love tragedy ship iceberg disaster
+1,Batman,"action hero gotham night"
+2,The Dark Knight,"action joker villain batman"
+3,Inception,"dream reality action sci-fi"
+4,Interstellar,"space time gravity sci-fi"
+5,Joker,"villain mental health drama"
+6,Man of Steel,"superman hero action"
+7,Tenet,"time inversion sci-fi spy"
